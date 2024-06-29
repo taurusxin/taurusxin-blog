@@ -6,7 +6,7 @@ aliases:
   - about
   - contact
 slug: about
-lastmod: '2024-04-28T16:39:00+0800'
+lastmod: '2024-06-27T09:55:00+0800'
 menu:
     main: 
         weight: -90
@@ -20,13 +20,16 @@ menu:
 
 ## 教育背景
 
-- 英国考文垂大学 (Coventry University) Computer Science 荣誉理学学士（First Class）
-- 英国谢菲尔德大学 (The University Of Sheffield) Engineering Data Communication 理学硕士（Merit）
-- 技术方向
-  - Web 全栈开发
-  - 移动应用开发
-  - Linux 运维
-  - 深度学习 / 计算机视觉
+- 理学学士 - 计算机科学
+- 理学硕士 - 数据通信工程
+
+## 技术方向
+
+- Web 全栈开发
+- 移动应用开发
+- Linux 运维
+- 深度学习 / 计算机视觉
+- 网络工程
 
 ## 职业
 
