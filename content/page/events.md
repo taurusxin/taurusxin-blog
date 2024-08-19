@@ -5,13 +5,12 @@ date: '2022-05-31'
 aliases:
   - events
 slug: events
-lastmod: '2023-03-05T10:20:00+0100'
+lastmod: '2024-08-20T00:32:00+0800'
 menu:
     main: 
         weight: -60
         params:
             icon: notebook
-comments: false
 ---
 
 ## 大事纪
