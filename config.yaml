@@ -2,7 +2,7 @@ baseurl: https://www.taurusxin.com
 languageCode: zh-cn
 theme: hugo-theme-stack
 paginate: 5
-title: TaurusXin 的独立博客
+title: TaurusXin 的独立博客 - 欣哥的小站
 
 # Change it to your Disqus shortname before using
 disqusShortname: taurusxin
