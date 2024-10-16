@@ -201,13 +201,10 @@ Set-PSReadlineKeyHandler -Key "Ctrl+d" -Function ViExit
 # 设置 Ctrl+z 为撤销
 Set-PSReadLineKeyHandler -Key "Ctrl+z" -Function Undo
 
-# 使用 ls 和 ll 查看目录
-function ListDirectory {
-    (Get-ChildItem).Name
-    Write-Host("")
+# 使用 ll 查看目录
+function ll {
+    Get-ChildItem
 }
-Set-Alias -Name ls -Value ListDirectory
-Set-Alias -Name ll -Value Get-ChildItem
 
 # 设置向上键为后向搜索历史记录
 Set-PSReadLineKeyHandler -Key UpArrow -Function HistorySearchBackward
@@ -215,8 +212,15 @@ Set-PSReadLineKeyHandler -Key UpArrow -Function HistorySearchBackward
 # 设置向下键为前向搜索历史纪录
 Set-PSReadLineKeyHandler -Key DownArrow -Function HistorySearchForward
 
-# rm alias
-Set-Alias rmrf "Remove-Item -Force -Recurse"
+# rm -rf alias
+function rmrf ($dir_path){
+  Remove-Item -Recurse -Force $dir_path
+}
+
+# mv alias
+function mv($file_path, $des_name) {
+  Move-Item -Path $file_path -Destination $des_name
+}
 
 # touch alias
 function touch {
