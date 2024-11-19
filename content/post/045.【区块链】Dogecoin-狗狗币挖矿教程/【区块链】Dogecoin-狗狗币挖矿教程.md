@@ -87,6 +87,10 @@ timeout 10
 
 **或者，你可以选择更换一个软件试一下，见下面的 BzMiner。**
 
+如果出现下面的情况，那么就说明无法连接矿池，这是大部分人都会遇到的问题，此时需要进行科学上网，例如使用 Clash 的 TUN 模式，这里就不过多赘述，请自行解决。
+
+![矿池连接失败](https://cdn.taurusxin.com/hugo/2024/11/19/connection-lost.png)
+
 ## BzMiner
 
 如果用 lolMiner 没有速率，考虑换一个软件试试，这里推荐 BzMiner。
