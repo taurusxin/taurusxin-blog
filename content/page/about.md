@@ -6,7 +6,7 @@ aliases:
   - about
   - contact
 slug: about
-lastmod: '2024-06-27T09:55:00+0800'
+lastmod: '2024-11-20T11:27:00+0800'
 menu:
     main: 
         weight: -90
@@ -25,10 +25,9 @@ menu:
 
 ## 技术方向
 
-- Web 全栈开发
-- 移动应用开发
+- Web 全栈 / 移动应用
 - Linux 运维
-- 深度学习 / 计算机视觉
+- 深度神经网络 / 计算机视觉
 - 网络工程
 
 ## 职业
@@ -47,12 +46,18 @@ menu:
   - MySQL / PostgreSQL / MongoDB
   - Golang
   - .NET
-- 网络
+- 网络工程
   - TCP/IP
   - CDN
-  - VPN
+  - MPLS / BGP / OSPF
   - SDN
   - 思科 / 华三 / 华为
+
+## 代码托管
+
+- [Github](https://github.com/taurusxin)
+- [GitLab](https://gitlab.com/taurusxin)
+- [Gitea](https://git.taurusxin.com)
 
 ## 联系方式
 
@@ -65,23 +70,11 @@ menu:
 
 - [Telegram](https://t.me/taurusxin)
 
-## 其他链接 & 信息
-
-### 社交网络
-
-- [Instagram](https://www.instagram.com/taurus_yx/)
-- ~~Clubhouse - @taurusxin~~ (因手机号原因已废弃)
-- Clubhouse - @taurusyx (新)
+## 其他
 
 ### 自媒体
 
 - [Bilibili](https://space.bilibili.com/4360325)
-
-### 代码托管
-
-- [Github](https://github.com/taurusxin)
-- [GitLab](https://gitlab.com/taurusxin)
-- [Gitea](https://git.taurusxin.com)
 
 ### 游戏
 
