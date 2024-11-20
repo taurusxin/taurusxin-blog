@@ -82,3 +82,7 @@ menu:
   - Java Edition - [Taurus_Xin](https://namemc.com/profile/Taurus_Xin.1)
   - Bedrock Edition - TaurusXin6015
 - [Steam](https://steamcommunity.com/id/taurusyx/)
+
+## 为啥
+
+其实这个博客最初的目的是记录一些技术笔记，后面就开始写一些日常生活的感悟，也会记录一些生活琐事，反正看到这的你就当图一乐吧。
