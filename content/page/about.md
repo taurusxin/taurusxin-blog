@@ -6,7 +6,7 @@ aliases:
   - about
   - contact
 slug: about
-lastmod: '2024-11-20T11:27:00+0800'
+lastmod: '2024-12-10T23:05:00+0800'
 menu:
     main: 
         weight: -90
@@ -25,9 +25,10 @@ menu:
 
 ## 技术方向
 
-- Web 全栈 / 移动应用
+- Web 全栈开发
+- 移动应用开发
 - Linux 运维
-- 深度神经网络 / 计算机视觉
+- 深度学习 / 计算机视觉
 - 网络工程
 
 ## 职业
@@ -36,28 +37,24 @@ menu:
 
 ## 技术栈
 
-- 全栈开发
+- 全栈
   - HTML 5 / CSS 3 / ECMAScript 6
-  - Vue.js 2 / 3
-  - React.js
-  - Node.js
-  - Python 3
-  - Java
-  - MySQL / PostgreSQL / MongoDB
-  - Golang
-  - .NET
-- 网络工程
+  - Vue.js / React.js / React Native / Electron
+  - Node.js / Express / Koa
+  - Python 3 / Django / Flask / FastAPI
+  - Java / Spring / Spring Boot / Jenkins / Apache / Tomcat / RabbitMQ / Kafka
+  - Golang / Gin / Gorm / Echo / Beego
+  - 移动端 / Android / iOS / Flutter / React Native / Weex / UniApp / Xamarin
+  - 数据库 / MySQL / PostgreSQL / MongoDB / SQLite / SQL Server
+  - .NET / C# / WinForm / ASP.NET / Entity Framework
+- 运维
+  - Linux / Shell / Docker / Kubernetes / Nginx / Apache / Jenkins
+- 网络
   - TCP/IP
   - CDN
-  - MPLS / BGP / OSPF
-  - SDN
-  - 思科 / 华三 / 华为
-
-## 代码托管
-
-- [Github](https://github.com/taurusxin)
-- [GitLab](https://gitlab.com/taurusxin)
-- [Gitea](https://git.taurusxin.com)
+  - VPN / MPLS
+  - SDN / SD-WAN
+  - 思科 / 华三 / 华为 / 中兴
 
 ## 联系方式
 
@@ -70,11 +67,23 @@ menu:
 
 - [Telegram](https://t.me/taurusxin)
 
-## 其他
+## 其他链接 & 信息
+
+### 社交网络
+
+- [Instagram](https://www.instagram.com/taurus_yx/)
+- ~~Clubhouse - @taurusxin~~ (因手机号原因已废弃)
+- Clubhouse - @taurusyx (新)
 
 ### 自媒体
 
 - [Bilibili](https://space.bilibili.com/4360325)
+
+### 代码托管
+
+- [Github](https://github.com/taurusxin)
+- [GitLab](https://gitlab.com/taurusxin)
+- [自建 Gitea](https://git.taurusxin.com)
 
 ### 游戏
 
@@ -82,7 +91,3 @@ menu:
   - Java Edition - [Taurus_Xin](https://namemc.com/profile/Taurus_Xin.1)
   - Bedrock Edition - TaurusXin6015
 - [Steam](https://steamcommunity.com/id/taurusyx/)
-
-## 为啥
-
-其实这个博客最初的目的是记录一些技术笔记，后面就开始写一些日常生活的感悟，也会记录一些生活琐事，反正看到这的你就当图一乐吧。
