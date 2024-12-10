@@ -41,8 +41,9 @@ menu:
   - HTML 5 / CSS 3 / ECMAScript 6
   - Vue.js / React.js / React Native / Electron
   - Node.js / Express / Koa
-  - Python 3 / Django / Flask / FastAPI
-  - Java / Spring / Spring Boot / Jenkins / Apache / Tomcat / RabbitMQ / Kafka
+  - Python / Django / Flask / FastAPI
+  - Java / Spring / Spring Boot / Tomcat / RabbitMQ / Kafka
+  - C / C++ / Qt / MFC / Win32 API
   - Golang / Gin / Gorm / Echo / Beego
   - 移动端 / Android / iOS / Flutter / React Native / Weex / UniApp / Xamarin
   - 数据库 / MySQL / PostgreSQL / MongoDB / SQLite / SQL Server
