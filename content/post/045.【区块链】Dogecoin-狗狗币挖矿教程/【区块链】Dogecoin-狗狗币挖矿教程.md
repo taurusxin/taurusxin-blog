@@ -5,7 +5,7 @@ tags: [ '挖矿', 'doge', '狗狗币', 'eth', 'dogecoin' ]
 draft: false
 slug: "doge-mining"
 date: "2021-05-21 10:57:00"
-lastmod: '2024-03-27T18:49:00+0800'
+lastmod: '2024-12-28T17:25:00+0800'
 ---
 
 最近一段时间狗狗币很火，价格暴涨。狗狗币挖矿其实很简单，只需要下载一个狗狗币钱包，然后下载一个挖矿程序，配置一下钱包地址，就可以开始挖了。
@@ -24,9 +24,15 @@ lastmod: '2024-03-27T18:49:00+0800'
 
 ## 获取钱包地址
 
-### 使用手机钱包
+### 使用手机钱包（推荐）
 
 你可以在**非国区**的应用商店下载一个狗狗币钱包，比如 Trust Wallet，然后在里面创建一个通用的钱包地址，并找到狗狗币的地址。
+
+![Trust](https://cdn.taurusxin.com/hugo/2024/12/28/Trust-Doge.png)
+
+请注意！不要在任何你不信任的来源下载钱包App，请从官方渠道，例如 App Store 或者 Google Play Store 下载，Trust 也只是我推荐使用的，或者，你也可以使用交易所钱包地址，例如币安交易所的钱包**充币地址**，注意务必选择 **Dogecoin 链**，即以 D 开头的地址，如下图。
+
+![Binance](https://cdn.taurusxin.com/hugo/2024/12/28/Binance-Doge.png)
 
 ### PC版官方全节点钱包
 
