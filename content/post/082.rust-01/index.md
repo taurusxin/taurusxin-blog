@@ -7,19 +7,19 @@ slug: "rust-tutorial-01"
 date: "2024-12-30T01:20:00+0800"
 ---
 
-## 视频
+## Bilibili
 
 {{< bilibili BV1BG6eYPE7L >}}
 
 建议前往 B 站观看哦！
 
-## 课程笔记
+---
 
-### Rust 简介
+## Rust 简介
 
 **Rust** 是一门注重 **内存安全** 和 **高性能** 的系统编程语言，通过所有权机制避免常见的内存错误。自 **2021 年 Linux 内核 5.13 版本**起，Rust 被正式引入，用于提高内核模块（如驱动程序）的安全性，减少内存管理漏洞。目前，Rust 在内核中的应用仍处于初期阶段，未来可能会逐步扩大。
 
-### 安装
+## 安装
 
 - 官方网站：<https://www.rust-lang.org/>
 
@@ -29,7 +29,7 @@ date: "2024-12-30T01:20:00+0800"
 brew install rust
 ```
 
-### HelloWorld
+## HelloWorld
 
 ```rust
 fn main() {
@@ -37,7 +37,7 @@ fn main() {
 }
 ```
 
-### Hello Cargo
+## Hello Cargo
 
 建立 cargo 项目
 
