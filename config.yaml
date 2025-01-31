@@ -255,7 +255,7 @@ menu:
 
         - identifier: travellings
           name: 开往
-          url: https://travellings.taurusxin.com
+          url: https://www.travellings.cn/go.html
           weight: 5
           params:
             icon: travellings
