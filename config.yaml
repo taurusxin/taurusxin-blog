@@ -211,7 +211,7 @@ menu:
           url: https://www.travellings.cn/go.html
           weight: 6
           params:
-            icon: user
+            icon: travellings
             newTab: true
 
         - identifier: rss
