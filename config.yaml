@@ -194,24 +194,36 @@ menu:
         - identifier: home
           name: 首页
           url: /
-          weight: -100
+          weight: 1
           params:
               icon: home
-        
+
         - identifier: moments
           name: 拾光
           url: https://moments.taurusxin.com
-          weight: -75
+          weight: 5
           params:
               icon: moments
-        
+              newTab: true
+
+        - identifier: travellings
+          name: 开往
+          url: https://www.travellings.cn/go.html
+          weight: 6
+          params:
+            icon: user
+            newTab: true
+
         - identifier: rss
           name: RSS
           url: /index.xml
-          weight: -40
+          weight: 10
           params:
-            icon: rss
-    
+            icon: rss.
+            newTab: true
+
+
+
     social:
         - identifier: github
           name: GitHub
@@ -241,6 +253,12 @@ menu:
           params:
             icon: mail
 
+        - identifier: travellings
+          name: 开往
+          url: https://travellings.taurusxin.com
+          weight: 5
+          params:
+            icon: travellings
 
 related:
     includeNewer: true

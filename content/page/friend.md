@@ -7,7 +7,7 @@ menu:
         name: 友链
         params: 
             icon: heart
-        weight: -80
+        weight: 4
 edit: false
 comment: true
 ---

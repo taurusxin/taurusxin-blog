@@ -9,7 +9,7 @@ slug: about
 lastmod: '2024-12-10T23:05:00+0800'
 menu:
     main: 
-        weight: -90
+        weight: 2
         params:
             icon: user
 ---

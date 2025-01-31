@@ -8,7 +8,7 @@ slug: events
 lastmod: '2024-08-20T00:32:00+0800'
 menu:
     main: 
-        weight: -60
+        weight: 8
         params:
             icon: notebook
 ---
