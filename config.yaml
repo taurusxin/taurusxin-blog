@@ -219,7 +219,7 @@ menu:
           url: /index.xml
           weight: 10
           params:
-            icon: rss.
+            icon: rss
             newTab: true
 
 

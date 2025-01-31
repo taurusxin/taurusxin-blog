@@ -41,6 +41,6 @@ iOS客户端尚未完善
 
 
 
-  [1]: https://cdn.rhyland.cn/usr/uploads/2020/10/3663759920.png
-  [2]: https://cdn.rhyland.cn/usr/uploads/2020/10/1621281381.png
-  [3]: https://cdn.rhyland.cn/usr/uploads/2020/10/4135829782.png
+  [1]: https://cdn.taurusxin.com/old-cdn/usr/uploads/2020/10/3663759920.png
+  [2]: https://cdn.taurusxin.com/old-cdn/usr/uploads/2020/10/1621281381.png
+  [3]: https://cdn.taurusxin.com/old-cdn/usr/uploads/2020/10/4135829782.png

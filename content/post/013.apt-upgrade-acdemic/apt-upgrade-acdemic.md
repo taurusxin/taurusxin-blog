@@ -47,5 +47,5 @@ Rush!!!
 [/collapse]
 
 
-  [1]: https://cdn.rhyland.cn/usr/uploads/2020/07/3181345122.png
+  [1]: https://cdn.taurusxin.com/old-cdn/usr/uploads/2020/07/3181345122.png
   [2]: http://csrankings.org/#/index?all&europe

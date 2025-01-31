@@ -55,5 +55,5 @@ import jakarta.servlet.http.HttpServletResponse;
 问题解决
 
 
-  [1]: https://cdn.rhyland.cn/typecho/2021/04/12/404.png
-  [2]: https://cdn.rhyland.cn/typecho/2021/04/12/tomcat10-servlet-api.png
+  [1]: https://cdn.taurusxin.com/old-cdn/typecho/2021/04/12/404.png
+  [2]: https://cdn.taurusxin.com/old-cdn/typecho/2021/04/12/tomcat10-servlet-api.png

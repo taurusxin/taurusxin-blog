@@ -34,7 +34,7 @@ date: "2021-03-21 13:26:00"
 
 KMS激活地址：kms.xingez.me
 
-**脚本**：[button color="info" icon="" url="https://cdn.rhyland.cn/typecho/2021/03/21/Win10%20Pro-d22afa.bat" type=""]下载[/button]
+**脚本**：[button color="info" icon="" url="https://cdn.taurusxin.com/old-cdn/typecho/2021/03/21/Win10%20Pro-d22afa.bat" type=""]下载[/button]
 下载之后右键**必须管理员运行**，弹出三个对话框即可。
 
 **手动**：
@@ -51,7 +51,7 @@ slmgr /ato
 
 #### 2. 伪数字权益激活
 
-工具：[button color="info" icon="" url="https://cdn.rhyland.cn/typecho/2021/03/21/HWIDGen%2066.01-968a4c.zip" type=""]下载[/button]
+工具：[button color="info" icon="" url="https://cdn.taurusxin.com/old-cdn/typecho/2021/03/21/HWIDGen%2066.01-968a4c.zip" type=""]下载[/button]
 
 工具启动后，右侧选择 HWID，然后 Start即可。这是一个伪造数字激活的工具，且是永久。
 [/collapse]
@@ -75,7 +75,7 @@ slmgr /ato
 
 注意，我的语言只有一个中文。
 
-注册表：[button color="info" icon="" url="https://cdn.rhyland.cn/typecho/2021/03/21/uskey-b35ad7.reg" type=""]下载[/button]
+注册表：[button color="info" icon="" url="https://cdn.taurusxin.com/old-cdn/typecho/2021/03/21/uskey-b35ad7.reg" type=""]下载[/button]
 
 双击导入之后，需要注销用户，或者重启系统方可生效。
 
@@ -107,8 +107,8 @@ Nginx 和 OpenSSL 都是自己源码编译的，OpenSSL 在 Windows 下的编译
 所有工具都解压到文件夹，然后依次添加到 Windows 的环境变量，这样随时右键 Git Bash 就能调用了。还有一些没有列举出来，日后看需求添加。
 
 
-  [1]: https://cdn.rhyland.cn/typecho/2021/03/21/windows-activate.png
-  [2]: https://cdn.rhyland.cn/typecho/2021/03/21/hide-search.png
-  [3]: https://cdn.rhyland.cn/typecho/2021/03/21/input-type.png
-  [4]: https://cdn.rhyland.cn/typecho/2021/03/21/language.png
+  [1]: https://cdn.taurusxin.com/old-cdn/typecho/2021/03/21/windows-activate.png
+  [2]: https://cdn.taurusxin.com/old-cdn/typecho/2021/03/21/hide-search.png
+  [3]: https://cdn.taurusxin.com/old-cdn/typecho/2021/03/21/input-type.png
+  [4]: https://cdn.taurusxin.com/old-cdn/typecho/2021/03/21/language.png
   [5]: https://blog.xingez.me/openssl_win_build

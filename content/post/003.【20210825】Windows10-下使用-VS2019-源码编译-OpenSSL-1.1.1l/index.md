@@ -155,6 +155,6 @@ nmake clean
   [1]: http://strawberryperl.com/
   [2]: https://www.nasm.us/
   [3]: https://www.openssl.org/source/
-  [4]: https://cdn.rhyland.cn/usr/uploads/2020/04/504569709.png
-  [5]: https://cdn.rhyland.cn/usr/uploads/2020/05/1835595688.jpg
-  [6]: https://cdn.rhyland.cn/typecho/2021/09/01/OpenSSL-1.1.1l-windows_x86-64.zip
+  [4]: https://cdn.taurusxin.com/old-cdn/usr/uploads/2020/04/504569709.png
+  [5]: https://cdn.taurusxin.com/old-cdn/usr/uploads/2020/05/1835595688.jpg
+  [6]: https://cdn.taurusxin.com/old-cdn/typecho/2021/09/01/OpenSSL-1.1.1l-windows_x86-64.zip

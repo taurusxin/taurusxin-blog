@@ -73,7 +73,7 @@ exportImage.src = canvasFabric.toDataURL({ width: screenWidth, height: screenWid
 最终将画布内容输出到img DOM中，移动端长按保存，桌面端右键保存。
 
 ## 源码
-[button color="light" icon="" url="https://cdn.rhyland.cn/typecho/2020/12/09/christmas_hat.zip" type="round"]点击下载[/button]
+[button color="light" icon="" url="https://cdn.taurusxin.com/old-cdn/typecho/2020/12/09/christmas_hat.zip" type="round"]点击下载[/button]
 
 
   [1]: https://blog.xingez.me/christmas_hat

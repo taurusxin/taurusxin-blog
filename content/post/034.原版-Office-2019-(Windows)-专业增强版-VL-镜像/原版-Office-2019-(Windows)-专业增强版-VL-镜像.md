@@ -47,5 +47,5 @@ KMS 激活服务器地址：xingez.me
 **下载地址（防止滥用，回复后刷新可见，忽略提示要审核）：**
 
 [hide]
-[button color="light" icon="" url="https://cdn.rhyland.cn/office/Office_Tool_Plus_16.0.10371.20060.iso" type=""]下载 16.0.10371.20060[/button]
+[button color="light" icon="" url="https://cdn.taurusxin.com/old-cdn/office/Office_Tool_Plus_16.0.10371.20060.iso" type=""]下载 16.0.10371.20060[/button]
 [/hide]

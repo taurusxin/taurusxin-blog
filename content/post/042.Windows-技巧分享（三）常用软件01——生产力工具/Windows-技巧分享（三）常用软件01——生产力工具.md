@@ -102,13 +102,13 @@ https://www.blackmagicdesign.com/products/davinciresolve/
 
 
   [1]: https://blog.rhyland.cn/
-  [2]: https://cdn.rhyland.cn/typecho/2021/04/22/Chrome.png
-  [3]: https://cdn.rhyland.cn/typecho/2021/04/12/toolbox.png
-  [4]: https://cdn.rhyland.cn/typecho/2021/04/22/vs2019.png
-  [5]: https://cdn.rhyland.cn/typecho/2021/04/22/code.png
-  [6]: https://cdn.rhyland.cn/typecho/2021/04/22/hbuilderx.png
-  [7]: https://cdn.rhyland.cn/typecho/2021/04/22/Adobe%20CC.png
-  [8]: https://cdn.rhyland.cn/typecho/2021/04/22/adobe-creative-cloud.png
-  [9]: https://cdn.rhyland.cn/typecho/2021/04/22/Davinci%20Resolve.png
+  [2]: https://cdn.taurusxin.com/old-cdn/typecho/2021/04/22/Chrome.png
+  [3]: https://cdn.taurusxin.com/old-cdn/typecho/2021/04/12/toolbox.png
+  [4]: https://cdn.taurusxin.com/old-cdn/typecho/2021/04/22/vs2019.png
+  [5]: https://cdn.taurusxin.com/old-cdn/typecho/2021/04/22/code.png
+  [6]: https://cdn.taurusxin.com/old-cdn/typecho/2021/04/22/hbuilderx.png
+  [7]: https://cdn.taurusxin.com/old-cdn/typecho/2021/04/22/Adobe%20CC.png
+  [8]: https://cdn.taurusxin.com/old-cdn/typecho/2021/04/22/adobe-creative-cloud.png
+  [9]: https://cdn.taurusxin.com/old-cdn/typecho/2021/04/22/Davinci%20Resolve.png
   [10]: https://space.bilibili.com/946974/
-  [11]: https://cdn.rhyland.cn/typecho/2021/04/22/Microsoft%20365.png
+  [11]: https://cdn.taurusxin.com/old-cdn/typecho/2021/04/22/Microsoft%20365.png

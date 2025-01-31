@@ -79,8 +79,8 @@ U盘插入电脑，开机进入BIOS，一路下一步之后，选择你的空白
 本章介绍了最基础的，也是人人必会的原版安装系统篇。后面的系列文章将会介绍一些我对于 Windows 10 的日常使用技巧及我是如何管理我自己的系统内容的。
 
 
-  [1]: https://cdn.rhyland.cn/typecho/2021/03/21/windows2000.jpg
-  [4]: https://cdn.rhyland.cn/typecho/2021/03/21/windows10-download.png
-  [6]: https://cdn.rhyland.cn/typecho/2021/03/21/ua-switcher.png
-  [7]: https://cdn.rhyland.cn/typecho/2021/03/21/windows10-download-2.png
-  [8]: https://cdn.rhyland.cn/typecho/2021/03/21/windows10-install.png
+  [1]: https://cdn.taurusxin.com/old-cdn/typecho/2021/03/21/windows2000.jpg
+  [4]: https://cdn.taurusxin.com/old-cdn/typecho/2021/03/21/windows10-download.png
+  [6]: https://cdn.taurusxin.com/old-cdn/typecho/2021/03/21/ua-switcher.png
+  [7]: https://cdn.taurusxin.com/old-cdn/typecho/2021/03/21/windows10-download-2.png
+  [8]: https://cdn.taurusxin.com/old-cdn/typecho/2021/03/21/windows10-install.png

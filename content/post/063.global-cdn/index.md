@@ -35,7 +35,7 @@ date: "2022-09-01 12:13:00"
 
 ### 静态资源 CDN
 
-之前一直用的是公司的 `cdn.rhyland.cn` 作为博客的图片分发，备案通过后启用 `cdn.taurusxin.com` 静态资源域名，内容位于腾讯云上海 COS
+之前一直用的是公司的 `cdn.taurusxin.com/old-cdn` 作为博客的图片分发，备案通过后启用 `cdn.taurusxin.com` 静态资源域名，内容位于腾讯云上海 COS
 
 ### DNS
 

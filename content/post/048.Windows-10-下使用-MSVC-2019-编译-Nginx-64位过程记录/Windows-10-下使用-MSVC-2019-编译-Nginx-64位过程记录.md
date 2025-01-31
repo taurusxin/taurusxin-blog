@@ -170,19 +170,19 @@ TLS SNI support enabled
 configure arguments: --with-cc=cl --prefix= --conf-path=conf/nginx.conf --pid-path=logs/nginx.pid --http-log-path=logs/access.log --error-log-path=logs/error.log --sbin-path=nginx.exe --http-client-body-temp-path=temp/client_body_temp --http-proxy-temp-path=temp/proxy_temp --http-fastcgi-temp-path=temp/fastcgi_temp --http-scgi-temp-path=temp/scgi_temp --http-uwsgi-temp-path=temp/uwsgi_temp --with-cc-opt=-DFD_SETSIZE=1024 --with-pcre=objs/pcre-8.45 --with-zlib=objs/zlib-1.2.11 --with-openssl=objs/openssl-3.0.0 --with-openssl-opt='no-asm no-tests -D_WIN32_WINNT=0x0601' --with-http_ssl_module --with-http_v2_module --with-http_realip_module --with-http_addition_module --with-http_sub_module --with-http_stub_status_module --with-http_dav_module --with-http_flv_module --with-http_mp4_module --with-http_gunzip_module --with-http_gzip_static_module --with-http_auth_request_module --with-http_random_index_module --with-http_secure_link_module --with-http_slice_module --with-mail --with-mail_ssl_module --with-stream --with-stream_ssl_module --with-stream_ssl_preread_module
 ```
 
-下载地址：[点击这里](https://cdn.rhyland.cn/typecho/2021/12/06/nginx-1.21.4.zip)
+下载地址：[点击这里](https://cdn.taurusxin.com/old-cdn/typecho/2021/12/06/nginx-1.21.4.zip)
 
 ## 结语
 
 至此，Nginx 在 Windows 10 下，使用 MSVC 2019 的完整编译过程结束，任何报错，不明白请在下方评论区留言！
 
-  [1]: https://cdn.rhyland.cn/typecho/2021/06/14/download.png
-  [2]: https://cdn.rhyland.cn/typecho/2021/06/14/archive.png
+  [1]: https://cdn.taurusxin.com/old-cdn/typecho/2021/06/14/download.png
+  [2]: https://cdn.taurusxin.com/old-cdn/typecho/2021/06/14/archive.png
   [3]: https://sourceforge.net/projects/pcre/files/pcre/
   [4]: https://zlib.net/
   [5]: https://www.openssl.org/source/
-  [6]: https://cdn.rhyland.cn/typecho/2021/06/14/require-libs.png
-  [7]: https://cdn.rhyland.cn/typecho/2021/06/14/cl-version.png
-  [8]: https://cdn.rhyland.cn/typecho/2021/06/14/point-msvc-version.png
-  [9]: https://cdn.rhyland.cn/typecho/2021/06/14/msvc-cli.png
-  [10]: https://cdn.rhyland.cn/typecho/2021/06/14/success.png
+  [6]: https://cdn.taurusxin.com/old-cdn/typecho/2021/06/14/require-libs.png
+  [7]: https://cdn.taurusxin.com/old-cdn/typecho/2021/06/14/cl-version.png
+  [8]: https://cdn.taurusxin.com/old-cdn/typecho/2021/06/14/point-msvc-version.png
+  [9]: https://cdn.taurusxin.com/old-cdn/typecho/2021/06/14/msvc-cli.png
+  [10]: https://cdn.taurusxin.com/old-cdn/typecho/2021/06/14/success.png

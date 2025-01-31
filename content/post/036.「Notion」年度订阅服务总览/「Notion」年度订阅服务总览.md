@@ -13,4 +13,4 @@ date: "2021-02-24 10:16:00"
 
 [前往 Notion 链接](https://taurusxin.notion.site/ae97700d125d4465abe9725d16d7b858?v=f592578996724e7087895c58a7500030&pvs=4)
 
-![订阅服务总览](https://cdn.rhyland.cn/typecho/2021/02/24/Xnip2021-02-24_10-19-40.png)
+![订阅服务总览](https://cdn.taurusxin.com/old-cdn/typecho/2021/02/24/Xnip2021-02-24_10-19-40.png)

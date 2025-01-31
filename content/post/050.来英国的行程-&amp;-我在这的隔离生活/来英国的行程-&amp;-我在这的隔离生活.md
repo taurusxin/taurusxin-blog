@@ -66,12 +66,12 @@ date: "2021-10-05 08:49:00"
 暂时先写这些吧，过段时间再出篇文章介绍下英国留学生生活
 
 
-  [1]: https://cdn.rhyland.cn/typecho/2021/10/04/flight.jpg
-  [2]: https://cdn.rhyland.cn/typecho/2021/10/04/pvg-hkg-meal.jpg
-  [3]: https://cdn.rhyland.cn/typecho/2021/10/04/london-flight.jpg
-  [4]: https://cdn.rhyland.cn/typecho/2021/10/04/lhr-bus-station-cafe.jpg
-  [5]: https://cdn.rhyland.cn/typecho/2021/10/04/accommodation-1.jpg
-  [6]: https://cdn.rhyland.cn/typecho/2021/10/04/accommodation-2.jpg
-  [7]: https://cdn.rhyland.cn/typecho/2021/10/04/city-centre.jpg
-  [8]: https://cdn.rhyland.cn/typecho/2021/10/04/street-walking.jpg
-  [9]: https://cdn.rhyland.cn/typecho/2021/10/04/uni-building.jpg
+  [1]: https://cdn.taurusxin.com/old-cdn/typecho/2021/10/04/flight.jpg
+  [2]: https://cdn.taurusxin.com/old-cdn/typecho/2021/10/04/pvg-hkg-meal.jpg
+  [3]: https://cdn.taurusxin.com/old-cdn/typecho/2021/10/04/london-flight.jpg
+  [4]: https://cdn.taurusxin.com/old-cdn/typecho/2021/10/04/lhr-bus-station-cafe.jpg
+  [5]: https://cdn.taurusxin.com/old-cdn/typecho/2021/10/04/accommodation-1.jpg
+  [6]: https://cdn.taurusxin.com/old-cdn/typecho/2021/10/04/accommodation-2.jpg
+  [7]: https://cdn.taurusxin.com/old-cdn/typecho/2021/10/04/city-centre.jpg
+  [8]: https://cdn.taurusxin.com/old-cdn/typecho/2021/10/04/street-walking.jpg
+  [9]: https://cdn.taurusxin.com/old-cdn/typecho/2021/10/04/uni-building.jpg

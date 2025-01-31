@@ -63,9 +63,9 @@ date: "2021-06-08 23:10:00"
 因为我本身就是木耳，听不出无损和以前的音频规格，不过杜比全景声与普通音频规格的听感还是极为明显的，突出的一个点就是声场的变化，音乐本身因人而异，我选择了 杜比 + 48kHz 无损的选项，最高规格对于网速要求也挺高，想要无缝秒载切歌的话就至少要 100Mbps 以上的网络连接。况且现在5G时代的套餐都是没有无限流量的，一首歌就去了100M，听一下午就没了几个G，所以如果像我一样听不出明显差别的，就选择适合自己的就行，杜比全景声建议开启，体验明显。
 
   [1]: https://www.apple.com.cn/newsroom/2021/05/apple-music-announces-spatial-audio-and-lossless-audio/
-  [2]: https://cdn.rhyland.cn/typecho/2021/06/08/new-options.jpeg
+  [2]: https://cdn.taurusxin.com/old-cdn/typecho/2021/06/08/new-options.jpeg
   [3]: https://cdn.taurusxin.com/hugo/2021/06-08/Dolby-option.png
   [4]: https://cdn.taurusxin.com/hugo/2021/06-08/audio-quality.png
   [5]: https://cdn.taurusxin.com/hugo/2021/06-08/album-support.png
   [6]: https://cdn.taurusxin.com/hugo/2021/06-08/Dolby-listening.png
-  [7]: https://cdn.rhyland.cn/typecho/2021/06/09/loseless-space.png
+  [7]: https://cdn.taurusxin.com/old-cdn/typecho/2021/06/09/loseless-space.png
