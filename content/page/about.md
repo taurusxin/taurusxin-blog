@@ -6,7 +6,7 @@ aliases:
   - about
   - contact
 slug: about
-lastmod: '2024-12-10T23:05:00+0800'
+lastmod: '2025-02-04T11:08:00+0800'
 menu:
     main: 
         weight: 2
