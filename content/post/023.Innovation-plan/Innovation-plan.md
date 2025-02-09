@@ -2,7 +2,7 @@
 title: "Innovation plan"
 categories: [ "程序人生" ]
 tags: [  ]
-draft: false
+draft: true
 slug: "renew-plan"
 date: "2020-09-30 01:52:00"
 ---
