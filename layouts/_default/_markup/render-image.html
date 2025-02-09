@@ -3,12 +3,7 @@
 
 {{- if and (hasPrefix $Permalink "http") (default false .Page.Site.Params.render.image.externalLink.enabled) -}}
 	{{- with resources.GetRemote $Permalink -}}
-		{{- with .Err -}}
-			{{- $warnMsg := printf "%s" $Permalink -}}
-			{{- warnf "%s.\nPlease check the link: %s\n" . $warnMsg -}}
-		{{- else -}}
-			{{- $image = . -}}
-		{{- end -}}
+		{{- $image = . -}}
 	{{- else -}}
 	  {{- warnf "Unable to get remote resource %q" $Permalink -}}
 	{{- end -}}
