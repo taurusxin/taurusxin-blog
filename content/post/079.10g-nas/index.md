@@ -38,6 +38,60 @@ date: "2024-06-25T18:36:00+0800"
 
 ![我的 NAS](https://cdn.taurusxin.com/hugo/2024/06/25/%E6%88%91%E7%9A%84%20NAS.png)
 
+如果你需要复制，配置表如下：
+
+<table>
+  <thead>
+    <tr>
+      <th rowspan="8" style="text-align: center">硬件</th>
+      <td>机箱</td>
+      <td>乔思伯 N2 5盘位NAS机箱</td>
+    </tr>
+    <tr>
+      <td>电源</td>
+      <td>TT 350W SFX 电源</td>
+    </tr>
+    <tr>
+      <td>主板</td>
+      <td>精粤 B760i Gaming ITX 主板</td>
+    </tr>
+    <tr>
+      <td>CPU</td>
+      <td>Intel i3 12300T</td>
+    </tr>
+    <tr>
+      <td>内存</td>
+      <td>镁光 DDR4 3000 8G * 2</td>
+    </tr>
+    <tr>
+      <td>SSD</td>
+      <td>三星 PM981 512G NVME</td>
+    </tr>
+    <tr>
+      <td>数据盘</td>
+      <td>西部数据 HC550 16T * 4</td>
+    </tr>
+    <tr>
+      <td>网卡</td>
+      <td>Intel X520 PCI-E 拆机双光口万兆网卡</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th rowspan="3" style="text-align: center">软件</th>
+      <td>操作系统</td>
+      <td>群晖 DSM 7</td>
+    </tr>
+    <tr>
+      <td rowspan="2" style="vertical-align: middle">用户软件</td>
+      <td>Docker</td>
+    </tr>
+    <tr>
+      <td>虚拟机</td>
+    </tr>
+  </tbody>
+</table>
+
 先来说硬件，选择乔思伯N2这款机箱的原因是，首先它有5个3.5寸硬盘位，足够满足我的需求且日后能够扩容，CPU方面选择了12代的低压CPU i3 12300T，是为了支持DSM7.2的12-14代CPU核显加速，且待机功耗较低，性能也是足够，跑虚拟机不在话下。搭配的主板是精粤的 B760i ITX主板，板载一个 2.5G 网卡，可以接入我家庭的 2.5G 内网中。内存则是选择了之前旧PC上留下的拆机镁光内存，附加了2条三星 512G 的 NVME 硬盘用于读写缓存。额外配件则加了一张 Intel 82599 芯片的 X520 服务器拆机网卡，带两个万兆光口。
 
 ![HC550（图自网络，侵删）](https://cdn.taurusxin.com/hugo/2024/06/25/disks.jpg)
