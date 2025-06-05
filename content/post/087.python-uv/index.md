@@ -5,7 +5,7 @@ tags: [ "python", "uv" ]
 draft: false
 slug: "python-uv"
 date: "2025-06-06T00:55:00+0800"
-lastmod: "2023-06-06T01:53:00+0800"
+lastmod: "2023-06-06T01:55:00+0800"
 ---
 
 ## 前言与介绍
@@ -190,10 +190,10 @@ hello-uv v0.1.0
 ```python
 # main.py
 
-import httpx
+import requests
 
 def main():
-    response = httpx.get('https://example.com')
+    response = requests.get('https://example.com')
     print(response.status_code)
 
 if __name__ == '__main__':
