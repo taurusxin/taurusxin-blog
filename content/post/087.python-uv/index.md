@@ -5,6 +5,7 @@ tags: [ "python", "uv" ]
 draft: false
 slug: "python-uv"
 date: "2025-06-06T00:55:00+0800"
+lastmod: "2023-06-06T01:53:00+0800"
 ---
 
 ## 前言与介绍
@@ -80,7 +81,7 @@ Remove-Item -Recurse -Force -Path $(uv tool dir)
 
 如果不做任何配置，uv 默认会使用 PyPI 官方源，如果你需要使用国内源，可以使用下面几种办法来更换源（默认都以清华源为例）。
 
-uv 的配置文件分为项目级、用户级和系统级，如果你只想将某个项目的源配置为国内镜像，那么只需要在创建依赖后把下面的内容添加到项目目录下的 `pyproject.toml`
+uv 的配置文件分为项目级、用户级和系统级，如果你只想将某个项目的源配置为国内镜像，那么只需要在创建项目后把下面的内容添加到项目目录下的 `pyproject.toml`
 
 ```toml
 [[tool.uv.index]]
@@ -88,7 +89,7 @@ url = "https://mirrors.tuna.tsinghua.edu.cn/pypi/web/simple"
 default = true
 ```
 
-如果想对所有项目都生效，则需要配置全局配置，创建一个全局的配置文件 `~/.config/uv/uv.toml` 并将以下内容写入
+如果想对之后的所有项目都生效，则需要配置全局配置，创建一个全局的配置文件 `~/.config/uv/uv.toml` 并将以下内容写入
 
 ```toml
 [[index]]
