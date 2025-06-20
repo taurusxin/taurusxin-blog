@@ -89,13 +89,20 @@ url = "https://mirrors.tuna.tsinghua.edu.cn/pypi/web/simple"
 default = true
 ```
 
-如果想对之后的所有项目都生效，则需要配置全局配置，创建一个全局的配置文件 `~/.config/uv/uv.toml` 并将以下内容写入
+如果想对之后的所有项目都生效，则需要配置全局配置，创建一个全局的配置文件 `uv.toml` 并将以下内容写入（请注意，不同操作系统的配置文件路径不同）
+
+| 操作系统          | 配置文件路径               |
+|---------------|----------------------|
+| Linux / macOS | ~/.config/uv/uv.toml |
+| Windows       | %APPDATA%\uv\uv.toml |
 
 ```toml
 [[index]]
 url = "https://mirrors.tuna.tsinghua.edu.cn/pypi/web/simple"
 default = true
 ```
+
+更多关于配置文件的内容，详见[官网的文档](https://docs.astral.sh/uv/concepts/configuration-files/)
 
 ---
 
