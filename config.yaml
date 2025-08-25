@@ -3,7 +3,7 @@ languageCode: zh-cn
 theme: hugo-theme-stack
 pagination:
   pagerSize: 10
-title: TaurusXin 的独立博客
+title: 欣哥的小站
 
 # Change it to your Disqus shortname before using
 disqusShortname: taurusxin
