@@ -44,6 +44,8 @@ date: "2025-12-08T23:51:00+0800"
 
 不管怎么说，这也是我制作的内容第一次出圈，也希望您能喜欢这里！
 
-另外附上项目的开源地址：https://github.com/taurusxin/ChristmasHat 有兴趣的可以自己去部署玩一玩！
+另外附上项目的开源地址：<https://github.com/taurusxin/ChristmasHat>
 
-感谢。感谢。
+有兴趣的可以自己去部署玩一玩！
+
+提前预祝所有阅读到这篇文章的伙伴圣诞快乐！
