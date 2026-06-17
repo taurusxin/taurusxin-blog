@@ -1,0 +1,318 @@
+baseURL = "https://www.taurusxin.com"
+locale = "zh"
+defaultContentLanguage = "zh"
+hasCJKLanguage = true
+theme = "hugo-theme-stack"
+title = "TaurusXin 的独立博客"
+timeout = "60s"
+
+[services.disqus]
+shortname = "taurusxin"
+
+[pagination]
+pagerSize = 10
+
+[permalinks]
+post = "/:slug/"
+page = "/:slug/"
+
+[params]
+mainSections = ["post"]
+featuredImageField = "image"
+rssFullContent = true
+favicon = ""
+SortBy = "default"
+
+[params.footer]
+since = 2018
+customText = "Made with ❤️ in Hangzhou <br> <a href=\"https://beian.miit.gov.cn/\" target=\"_blank\">浙ICP备2022025362号-1</a>"
+
+[params.dateFormat]
+published = ":date_full"
+lastUpdated = ":date_full"
+
+[params.sidebar]
+emoji = "🍉"
+subtitle = "永远年轻 永远热泪盈眶"
+compact = false
+avatar = "img/avatar.png"
+
+[params.article]
+headingAnchor = false
+math = false
+toc = true
+readingTime = true
+
+[params.article.list]
+showTags = false
+
+[params.article.license]
+enabled = true
+default = "Licensed under CC BY-NC-SA 4.0"
+
+[params.article.mermaid]
+look = "classic"
+lightTheme = "default"
+darkTheme = "dark"
+securityLevel = "strict"
+htmlLabels = true
+transparentBackground = false
+
+[params.article.alertIcon]
+note = ""
+tip = ""
+important = ""
+warning = "⚠️"
+caution = ""
+
+[params.comments]
+enabled = true
+provider = "artalk"
+
+[params.comments.artalk]
+serverUrl = "https://artalk.taurusxin.com"
+site = "TaurusXin 的独立博客"
+darkMode = "auto"
+
+[params.comments.disqusjs]
+shortname = "taurusxin"
+apiUrl = ""
+apiKey = ""
+admin = ""
+adminLabel = ""
+
+[params.comments.utterances]
+repo = ""
+issueTerm = "pathname"
+label = ""
+
+[params.comments.beaudar]
+repo = ""
+issueTerm = "pathname"
+label = ""
+theme = ""
+
+[params.comments.remark42]
+host = ""
+site = ""
+locale = "en"
+max_shown_comments = 15
+show_email_subscription = true
+
+[params.comments.vssue]
+platform = ""
+owner = ""
+repo = ""
+clientId = ""
+clientSecret = ""
+autoCreateIssue = false
+
+[params.comments.waline]
+serverURL = ""
+lang = ""
+pageview = ""
+avatar = ""
+emoji = ["https://unpkg.com/@waline/emojis@1.0.1/weibo"]
+requiredMeta = ["name", "email", "url"]
+
+[params.comments.waline.locale]
+admin = "Admin"
+placeholder = ""
+
+[params.comments.twikoo]
+envId = ""
+region = ""
+path = ""
+lang = ""
+
+[params.comments.cactus]
+defaultHomeserverUrl = "https://matrix.cactus.chat:8448"
+serverName = "cactus.chat"
+siteName = ""
+
+[params.comments.giscus]
+repo = ""
+repoID = ""
+category = ""
+categoryID = ""
+mapping = "title"
+lightTheme = "light"
+darkTheme = "dark_dimmed"
+reactionsEnabled = 1
+emitMetadata = 0
+inputPosition = "top"
+lang = "en"
+strict = 0
+loading = "lazy"
+
+[params.comments.gitalk]
+owner = ""
+admin = ""
+repo = ""
+clientID = ""
+clientSecret = ""
+proxy = ""
+
+[params.comments.cusdis]
+host = "https://cusdis.com"
+id = ""
+
+[params.comments.comentario]
+url = ""
+autoInit = false
+autoNonInteractiveSso = false
+cssOverride = ""
+lang = ""
+liveUpdate = false
+maxLevel = 0
+noFonts = false
+theme = ""
+
+[params.widgets]
+homepage = [
+    { type = "search" },
+    { type = "archives", params = { limit = 5 } },
+    { type = "categories", params = { limit = 10 } },
+    { type = "tag-cloud", params = { limit = 10 } },
+    { type = "status", params = { start = "2018-08-04", format = "yyyy 年 MM 月 dd 日" } },
+]
+page = [
+    { type = "toc" },
+]
+
+[params.opengraph.twitter]
+site = ""
+card = "summary_large_image"
+
+[params.colorScheme]
+toggle = true
+default = "auto"
+
+[params.imageProcessing]
+autoOrient = false
+
+[params.imageProcessing.external]
+timeout = "30s"
+
+[params.imageProcessing.thumbnail]
+enabled = true
+
+[params.imageProcessing.content]
+widths = [800, 1600, 2400]
+enabled = false
+
+[params.cookies]
+enabled = false
+showSettings = true
+
+[params.cookies.categories]
+analytics = false
+functional = true
+
+[params.render.image.externalLink]
+enabled = true
+
+[[menu.main]]
+identifier = "home"
+name = "首页"
+url = "/"
+weight = 1
+[menu.main.params]
+icon = "home"
+
+[[menu.main]]
+identifier = "moments"
+name = "拾光"
+url = "https://moments.taurusxin.com"
+weight = 5
+[menu.main.params]
+icon = "moments"
+newTab = true
+
+[[menu.main]]
+identifier = "travellings"
+name = "开往"
+url = "https://www.travellings.cn/go.html"
+weight = 6
+[menu.main.params]
+icon = "travellings"
+newTab = true
+
+[[menu.main]]
+identifier = "rss"
+name = "RSS"
+url = "/index.xml"
+weight = 10
+[menu.main.params]
+icon = "rss"
+newTab = true
+
+[[menu.social]]
+identifier = "github"
+name = "GitHub"
+url = "https://github.com/taurusxin"
+weight = 1
+[menu.social.params]
+icon = "brand-github"
+
+[[menu.social]]
+identifier = "bilibili"
+name = "Bilibili"
+url = "https://space.bilibili.com/4360325"
+weight = 2
+[menu.social.params]
+icon = "bilibili"
+
+[[menu.social]]
+identifier = "music"
+name = "网易云音乐"
+url = "https://music.163.com/#/user/home?id=260531598"
+weight = 3
+[menu.social.params]
+icon = "music"
+
+[[menu.social]]
+identifier = "mail"
+name = "电邮"
+url = "mailto:i@taurusxin.com"
+weight = 4
+[menu.social.params]
+icon = "mail"
+
+[[menu.social]]
+identifier = "travellings"
+name = "开往"
+url = "https://www.travellings.cn/go.html"
+weight = 5
+[menu.social.params]
+icon = "travellings"
+
+[related]
+includeNewer = true
+threshold = 60
+toLower = false
+
+[[related.indices]]
+name = "tags"
+weight = 100
+
+[[related.indices]]
+name = "categories"
+weight = 200
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.tableOfContents]
+endLevel = 4
+ordered = true
+startLevel = 2
+
+[markup.highlight]
+noClasses = false
+codeFences = true
+guessSyntax = true
+lineNoStart = 1
+lineNos = true
+lineNumbersInTable = true
+tabWidth = 4

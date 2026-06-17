@@ -1,0 +1,31 @@
+{{- $style := resources.Get "scss/partials/comments/artalk.scss" | toCSS | minify -}}
+{{- with .Site.Params.comments.artalk -}}
+{{- $serverUrl := default .server .serverUrl -}}
+<link href="https://cdn.taurusxin.com/hugo/assets/artalk/2.9.1/Artalk.min.css" rel="stylesheet">
+<link rel="stylesheet" href="{{ $style.RelPermalink }}">
+
+<script src="https://cdn.taurusxin.com/hugo/assets/artalk/2.9.1/Artalk.min.js"></script>
+
+<div id="Comments" class="artalk-container"></div>
+
+<script>
+    function isDarkMode() {
+        return document.documentElement.dataset.scheme === 'dark';
+    }
+
+    const artalkInstance = Artalk.init({
+        el: '#Comments',
+        pageKey: '{{ $.RelPermalink }}',
+        pageTitle: '{{ $.Title }}',
+        server: '{{ $serverUrl }}',
+        site: '{{ .site }}',
+        darkMode: isDarkMode(),
+        locale: 'auto',
+    });
+
+    window.addEventListener('onColorSchemeChange', (e) => {
+        if (!artalkInstance || typeof artalkInstance.setDarkMode !== 'function') return;
+        artalkInstance.setDarkMode(e.detail === 'dark');
+    });
+</script>
+{{- end -}}

@@ -1,0 +1,8 @@
+[widget.categoriesCloud]
+title = "分类"
+
+[widget.status]
+title = "状态"
+postCount = "文章数量"
+start = "博客始于"
+time = "稳定运行"
