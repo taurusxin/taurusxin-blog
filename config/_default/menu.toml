@@ -1,0 +1,74 @@
+[[main]]
+identifier = "home"
+name = "首页"
+url = "/"
+weight = 1
+[main.params]
+icon = "home"
+
+[[main]]
+identifier = "moments"
+name = "拾光"
+url = "https://moments.taurusxin.com"
+weight = 5
+[main.params]
+icon = "moments"
+newTab = true
+
+[[main]]
+identifier = "travellings"
+name = "开往"
+url = "https://www.travellings.cn/go.html"
+weight = 6
+[main.params]
+icon = "travellings"
+newTab = true
+
+[[main]]
+identifier = "rss"
+name = "RSS"
+url = "/index.xml"
+weight = 10
+[main.params]
+icon = "rss"
+newTab = true
+
+[[social]]
+identifier = "github"
+name = "GitHub"
+url = "https://github.com/taurusxin"
+weight = 1
+[social.params]
+icon = "brand-github"
+
+[[social]]
+identifier = "bilibili"
+name = "Bilibili"
+url = "https://space.bilibili.com/4360325"
+weight = 2
+[social.params]
+icon = "bilibili"
+
+[[social]]
+identifier = "music"
+name = "网易云音乐"
+url = "https://music.163.com/#/user/home?id=260531598"
+weight = 3
+[social.params]
+icon = "music"
+
+[[social]]
+identifier = "mail"
+name = "电邮"
+url = "mailto:i@taurusxin.com"
+weight = 4
+[social.params]
+icon = "mail"
+
+[[social]]
+identifier = "travellings"
+name = "开往"
+url = "https://www.travellings.cn/go.html"
+weight = 5
+[social.params]
+icon = "travellings"

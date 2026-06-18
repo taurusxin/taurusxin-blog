@@ -1,0 +1,100 @@
+mainSections = ["post"]
+featuredImageField = "image"
+rssFullContent = true
+favicon = ""
+SortBy = "default"
+
+[footer]
+since = 2018
+customText = "Made with ❤️ in Hangzhou <br> <a href=\"https://beian.miit.gov.cn/\" target=\"_blank\">浙ICP备2022025362号-1</a>"
+
+[dateFormat]
+published = ":date_full"
+lastUpdated = ":date_full"
+
+[sidebar]
+emoji = "🍉"
+subtitle = "永远年轻 永远热泪盈眶"
+compact = false
+avatar = "img/avatar.png"
+
+[article]
+headingAnchor = false
+math = false
+toc = true
+readingTime = true
+
+[article.list]
+showTags = false
+
+[article.license]
+enabled = true
+default = "Licensed under CC BY-NC-SA 4.0"
+
+[article.mermaid]
+look = "classic"
+lightTheme = "default"
+darkTheme = "dark"
+securityLevel = "strict"
+htmlLabels = true
+transparentBackground = false
+
+[article.alertIcon]
+note = ""
+tip = ""
+important = ""
+warning = "⚠️"
+caution = ""
+
+[comments]
+enabled = true
+provider = "artalk"
+
+[comments.artalk]
+serverUrl = "https://artalk.taurusxin.com"
+site = "TaurusXin 的独立博客"
+darkMode = "auto"
+
+[widgets]
+homepage = [
+    { type = "search" },
+    { type = "archives", params = { limit = 5 } },
+    { type = "categories", params = { limit = 10 } },
+    { type = "tag-cloud", params = { limit = 10 } },
+    { type = "status", params = { start = "2018-08-04", format = "yyyy 年 MM 月 dd 日" } },
+]
+page = [
+    { type = "toc" },
+]
+
+[opengraph.twitter]
+site = ""
+card = "summary_large_image"
+
+[colorScheme]
+toggle = true
+default = "auto"
+
+[imageProcessing]
+autoOrient = false
+
+[imageProcessing.external]
+timeout = "30s"
+
+[imageProcessing.thumbnail]
+enabled = true
+
+[imageProcessing.content]
+widths = [800, 1600, 2400]
+enabled = false
+
+[cookies]
+enabled = false
+showSettings = true
+
+[cookies.categories]
+analytics = false
+functional = true
+
+[render.image.externalLink]
+enabled = true

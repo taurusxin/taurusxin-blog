@@ -16,4 +16,4 @@ Lightbox = "https://cdn.jsdelivr.net/npm/photoswipe@5.4.4/dist/photoswipe-lightb
 
 [Artalk]
 Style = "https://cdn.taurusxin.com/hugo/assets/artalk/2.9.1/Artalk.min.css"
-Script = "https://cdn.taurusxin.com/hugo/assets/artalk/2.9.1/Artalk.min.js"
+Script = "https://cdn.taurusxin.com/hugo/assets/artalk/2.9.1/Artalk.mjs"

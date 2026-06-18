@@ -1,0 +1,17 @@
+baseURL = "https://www.taurusxin.com"
+locale = "zh"
+defaultContentLanguage = "zh"
+hasCJKLanguage = true
+theme = "hugo-theme-stack"
+title = "TaurusXin 的独立博客"
+timeout = "60s"
+
+[services.disqus]
+shortname = "taurusxin"
+
+[pagination]
+pagerSize = 10
+
+[permalinks]
+post = "/:slug/"
+page = "/:slug/"
