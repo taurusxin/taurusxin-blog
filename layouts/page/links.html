@@ -1,35 +1,42 @@
-{{ define "body-class" }}article-page keep-sidebar{{ end }}
+{{ define "body-class" }}article-page keep-sidebar links-page{{ end }}
 {{ define "main" }}
-    <div class="article-list--compact links">
+    {{ $linksTitle := default .Title .Params.linksTitle }}
+    <section class="links-section" aria-labelledby="links-title">
+        <header class="links-section__header">
+            <h1 id="links-title">{{ $linksTitle }}</h1>
+        </header>
+
+        <div class="links-grid">
         {{ $siteResources := resources }}
-        {{ range $i, $link :=  hugo.Data.links }}
-            <article>
+        {{ range $link := hugo.Data.links }}
+            <article class="link-card">
                 <a href="{{ $link.website }}" target="_blank" rel="noopener">
-                    <div class="article-details">
-                        <h2 class="article-title">
+                    <div class="link-card__details">
+                        <h2 class="link-card__title">
                             {{- $link.title -}}
                         </h2>
-                        <footer class="article-time">
+                        <p class="link-card__description">
                             {{ with $link.description }}
                                 {{ . }}
                             {{ else }}
                                 {{ $link.website }}
                             {{ end }}
-                        </footer>
+                        </p>
                     </div>
 
                     {{ if $link.image }}
                         {{ $image := $siteResources.Get (delimit (slice "link-img/" $link.image) "") | resources.Fingerprint "md5" }}
                         {{ $imageResized := $image.Resize "120x120" }}
-                        <div class="article-image">
+                        <div class="link-card__image">
                             <img src="{{ $imageResized.RelPermalink }}" width="{{ $imageResized.Width }}" height="{{ $imageResized.Height }}"
-                                loading="lazy" data-key="links-{{ $link.website }}" data-hash="{{ $image.Data.Integrity }}">
+                                loading="lazy" alt="{{ $link.title }}" data-key="links-{{ $link.website }}" data-hash="{{ $image.Data.Integrity }}">
                         </div>
                     {{ end }}
                 </a>
             </article>
         {{ end }}
-    </div>
+        </div>
+    </section>
 
     {{ partial "article/article.html" . }}
 

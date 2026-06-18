@@ -30,3 +30,6 @@ resources
 
 assets/jsconfig.json
 .DS_Store
+
+# hugo build logs
+*.log
