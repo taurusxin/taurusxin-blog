@@ -1,7 +1,5 @@
 {{ define "body-class" }}article-page keep-sidebar{{ end }}
 {{ define "main" }}
-    {{ partial "article/article.html" . }}
-
     <div class="article-list--compact links">
         {{ $siteResources := resources }}
         {{ range $i, $link :=  hugo.Data.links }}
@@ -32,6 +30,8 @@
             </article>
         {{ end }}
     </div>
+
+    {{ partial "article/article.html" . }}
 
     {{ if or (not (isset .Params "comments")) (eq .Params.comments "true")}} 
         {{ partial "comments/include" . }}
