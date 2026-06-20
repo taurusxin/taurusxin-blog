@@ -10,7 +10,7 @@ timeout = "60s"
 shortname = "taurusxin"
 
 [pagination]
-pagerSize = 10
+pagerSize = 5
 
 [permalinks]
 post = "/:slug/"
