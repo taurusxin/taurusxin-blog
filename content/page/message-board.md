@@ -7,7 +7,7 @@ menu:
         name: 留言
         params: 
             icon: message-board
-        weight: 3
+        weight: 2
 edit: false
 comment: true
 ---
