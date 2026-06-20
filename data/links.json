@@ -1,65 +1,76 @@
 [
   {
+    "enabled": true,
     "title": "锐岚科技",
     "website": "https://blog.rhyland.cn",
     "image": "rhyland.png",
-    "description": "锐岚科技核心博客"
+    "description": "锐岚科技博客"
   },
   {
+    "enabled": true,
     "title": "木头の小屋",
     "website": "http://wjlshare.com",
     "image": "wjlshare.jpg",
     "description": "网络安全工程师"
   },
   {
+    "enabled": false,
     "title": "帆's life",
     "website": "https://huxiaofan.com",
     "image": "fan.jpg",
     "description": "阳光宅男"
   },
   {
+    "enabled": true,
     "title": "Rogister的博客园",
     "website": "http://blog.rogister.top",
     "image": "default.png",
     "description": "死宅真可怕"
   },
   {
+    "enabled": false,
     "title": "PeterQiu 的博客",
     "website": "https://peterqiu871217776.wordpress.com",
     "image": "peterqiu.jpg",
-    "description": "守护全世界最好的 Peter"
+    "description": "PeterQiu YYDS"
   },
   {
+    "enabled": false,
     "title": "章森森的博客",
     "website": "https://blog.thangssen.site",
     "image": "thangssen.jpg",
     "description": "魔法师预备役"
   },
   {
+    "enabled": true,
     "title": "肥喵科技",
     "website": "https://fatcattech.cn/",
     "image": "fatcattech.png",
     "description": "肥喵科技–一个专注于科技的博客"
   },
   {
+    "enabled": true,
     "title": "晨鹤部落格",
     "website": "https://chenhe.me/",
     "image": "chenhe.png",
     "description": "晨鹤部落格"
   },
   {
+    "enabled": false,
     "title": "Clouder’s Blog",
     "website": "https://www.codein.icu/",
     "image": "codein.png",
     "description": "A student who enjoys tech & life."
   },
   {
+    "enabled": true,
     "title": "吕舒君的博客",
     "website": "https://cszj.wang/",
     "image": "cszj.png",
     "description": "吕舒君的博客"
   },
   {
+    "enabled": true,
     "title": "王泽丰的个人网站",
     "website": "https://zhejianglao.cn/",
     "image": "zhejianglao.png",
