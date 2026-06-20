@@ -29,7 +29,7 @@ showTags = false
 
 [article.license]
 enabled = true
-default = "Licensed under CC BY-NC-SA 4.0"
+default = "本文采用 CC BY-NC-SA 4.0 协议授权"
 
 [article.mermaid]
 look = "classic"
@@ -40,11 +40,11 @@ htmlLabels = true
 transparentBackground = false
 
 [article.alertIcon]
-note = ""
-tip = ""
-important = ""
+note = "ℹ️"
+tip = "💡"
+important = "❗"
 warning = "⚠️"
-caution = ""
+caution = "🛑"
 
 [comments]
 enabled = true
